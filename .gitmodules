@@ -1,3 +1,6 @@
 [submodule "SOAP-WebService-Ex01-"]
 	path = SOAP-WebService-Ex01-
 	url = https://github.com/hasithakms/SOAP-WebService-Ex01-.git
+[submodule "React-HelloWorld"]
+	path = React-HelloWorld
+	url = https://github.com/hasithakms/React-HelloWorld.git
